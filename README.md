@@ -1,26 +1,33 @@
 # Data Analysis Projects
 
-## Python
-- []()
-- []()
-- []()
+- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
 
-## SQL
-- []()
-- []()
-- []()
+  _Tools_: Tableau, SQL, Excel
 
-## Excel
-- []()
-- []()
-- []()
+- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
 
-## Tableau
-- [HR Dashboard](https://github.com/karlyndiary/HR-Dashboard)
-- []()
-- []()
+  _Tools_: Tableau, SQL, Excel
+  
+- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
 
-## Power BI
-- []()
-- []()
-- []()
+  _Tools_: Tableau, SQL, Excel
+
+- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
+
+  _Tools_: Tableau, SQL, Excel
+
+- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
+
+  _Tools_: Tableau, SQL, Excel
+
+- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
+
+  _Tools_: Tableau, SQL, Excel
+
+- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
+
+  _Tools_: Tableau, SQL, Excel
+
+- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
+
+  _Tools_: Tableau, SQL, Excel
