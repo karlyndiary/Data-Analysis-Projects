@@ -16,18 +16,22 @@
 
   _Tools_: Python, Streamlit
 
-- **Maven's Pizza Sales Insight**: Analyzing Maven Pizza's sales performance and business insights by exploring key metrics, product trends, customer behavior, and peak sales periods, utilizing SQL for querying and Excel for dashboard visualizations. [View Project](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
+- **Maven's Pizza Sales Insight**: Analyzing Maven Pizza's sales performance and business insights by exploring key metrics, product trends, customer behaviour, and peak sales periods, utilizing SQL for querying and Excel for dashboard visualizations. [View Project](https://github.com/karlyndiary/Mavens-Pizza-Sales-Insight)
 
   _Tools_: SQL, Excel
 
-- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
+- **Optimizing Product Recommendations A/B Testing**: An interactive dashboard analyzing sales trends and KPIs. [View Project](https://github.com/karlyndiary/Optimizing-Product-Recommendations-AB-Testing)
 
-  _Tools_: SQL, Excel
+  _Tools_: Python
 
-- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
+- **Restaurant Rating Analysis**: An interactive dashboard analyzing sales trends and KPIs. [View Project](https://github.com/karlyndiary/Restaurant-Ratings-Analysis)
 
-  _Tools_: Tableau, SQL, Excel
+  _Tools_: Power BI
 
-- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
+- **Hospital Patient Records Analysis**: An interactive dashboard analyzing sales trends and KPIs. [View Project](https://github.com/karlyndiary/Hospital-Patient-Records-Analysis)
 
-  _Tools_: Tableau, SQL, Excel
+  _Tools_: Tableau
+
+- **Amazon Sentiment Analysis & EDA**: An interactive dashboard analyzing sales trends and KPIs. [View Project](https://github.com/karlyndiary/Amazon-Sentiment-Analysis-EDA)
+
+  _Tools_: Python, Tableau
