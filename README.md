@@ -1,8 +1,8 @@
 # Data Analysis Projects
 
-- **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
+- **Optimizing Global Electronics Retailer: Revenue, Customer & Profit Insights**: An interactive dashboard analyzing sales trends and KPIs. [View Project](https://github.com/karlyndiary/Optimizing-Global-Electronics-Retailer-Sales-Insights)
 
-  _Tools_: Tableau, SQL, Excel
+  _Tools_: Python, SQL, Excel
 
 - **Sales Analysis Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project]()
 
