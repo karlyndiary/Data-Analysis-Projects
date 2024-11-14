@@ -16,14 +16,15 @@
 - **Amazon Sentiment Analysis & EDA**: An interactive dashboard analyzing sales trends and KPIs. [View Project](https://github.com/karlyndiary/Amazon-Sentiment-Analysis-EDA)
 
   _Tools_: Python, Tableau  
-## HR
-- **HR Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project](https://github.com/karlyndiary/HR-Dashboard)
-
-  _Tools_: Tableau
 
 - **AtliQ Hardware - Sales Insights Data Analysis**: An interactive dashboard analyzing sales trends and KPIs. [View Project](https://github.com/karlyndiary/AtliQ-Hardware-Sales-Insights-Data-Analysis)
 
   _Tools_: MySQL & Power BI
+  
+## HR
+- **HR Dashboard**: An interactive dashboard analyzing sales trends and KPIs. [View Project](https://github.com/karlyndiary/HR-Dashboard)
+
+  _Tools_: Tableau
   
 ## Food & Beverage
 - **Coffee Shop Sales Analysis**: Analyzing coffee shop sales using Pandas for data cleaning, exploratory data analysis (EDA), and Streamlit for data visualization dashboards. [View Project](https://github.com/karlyndiary/Coffee-Shop-Sales-Analysis)
